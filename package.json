@@ -1,0 +1,17 @@
+{
+  "name": "stresser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stress.js",
+  "scripts": {
+    "start": "node stress.js"
+  },
+  "keywords": [],
+  "author": "David Sargsyan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.2",
+    "randomstring": "^1.1.5"
+  }
+}
